@@ -1,6 +1,6 @@
 # code the #greeting method here!
+name = "Ruby Programmer"
 def greeting(name)
-  name = "Ruby Programmer"
   puts "Hello #{name}. It's nice to meet you."
 end 
 
