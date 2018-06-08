@@ -8,4 +8,4 @@ puts "Hi! I'm Hal, what's your name?"
 gets.strip = "name"
 
 def greeting(name)
-puts 
+
